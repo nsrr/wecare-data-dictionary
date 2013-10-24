@@ -1,0 +1,7 @@
+{
+  "id": "ethnicity",
+  "display_name": null,
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity"
+}
